@@ -190,5 +190,5 @@ spring:
 MIT License
 
 ### 联系方式
-- Issue: https://github.com/yourusername/family-assistant/issues
-- Email: your.email@example.com
+- Issue: https://github.com/java-hxza/family-assistant/issues
+- Email: hxzwye@gmail.com
